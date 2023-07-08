@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HelnaMaria
+- 👋 Hi, I’m @Helna Maria
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning B.Tech in Computer Science and Engineering.
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...
 
 <!---
