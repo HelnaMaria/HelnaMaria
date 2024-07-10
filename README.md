@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Helna Maria
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning B.Tech in Computer Science and Engineering.
+- 🌱 I completed B.Tech in Computer Science and Engineering.
 
 - 📫 How to reach me ...
 
